@@ -1,0 +1,5 @@
+pytest
+sqlalchemy>=2.0
+psycopg2-binary
+testcontainers[postgresql]
+python-dotenv

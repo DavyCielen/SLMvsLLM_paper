@@ -1,0 +1,19 @@
+# Use a base image with necessary tools
+FROM python:3.9-slim
+
+# Set the working directory
+WORKDIR /app
+
+# Install Python packages
+RUN pip install openai psycopg2-binary
+
+# Copy the rest of the application code
+COPY . .
+
+# Expose the port (if needed)
+EXPOSE 5000
+
+# Start the application
+# CMD ["/root/.local/bin/ollama", "serve"]
+
+CMD ["python", "open_ai.py"]
