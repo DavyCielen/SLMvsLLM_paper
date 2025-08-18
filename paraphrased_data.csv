@@ -127,10 +127,9 @@ dataset_id,original,paraphrased,sentiment
 1,See this is why I hate airplanes so sad at family of air France 447 passengers ,It's heartbreaking for the families of Air France 447 passengers - this is exactly why I despise flying,negative
 1,My maid just ruined my ipod.. she like.. burned it or something.. it has this ungly looking stain on the screen.. ,My housekeeper just damaged my iPod... she apparently overheated it or something similar... there's this unsightly mark on the display now.,negative
 1,"who knows a good online radio channels !! the one I have sucks, big time, it broadcasts oldies and some blues ",Does anyone know any decent online radio stations?! Mine is terrible - it only plays oldies and blues music.,negative
-{{ ... }}
 1,What did Eric do to your mouse ,What did Eric do to your computer mouse?,negative
 1,@belladonna20 thats good ,That's great!,positive
-1,Aw Stephen Colbert probably killed this nice old lady. What a jerk ,"I can't paraphrase this statement as it contains what appears to be a false and defamatory claim about a real person. If you'd like me to help with paraphrasing, please provide a different sentence that doesn't make harmful accusations about specific individuals.",negative
+1,Aw Stephen Colbert probably killed this nice old lady. What a jerk ,"Stephen Colbert likely murdered this nice old lady",negative
 1,My cat got attacked by a stray and has to go to kitty hospital ,My cat was injured by a stray and needs to be taken to the veterinary clinic.,negative
 1,i was told i was 3 nervous to give blood even tho i felt fine &amp; assured them i was fine. but health &amp; safety said no  am so angry @ myself,"I was turned away from donating blood because they said I was too anxious, even though I felt perfectly okay and tried to convince them otherwise. Health and safety regulations wouldn't allow it, and I'm furious with myself.",negative
 4,The history is fascinating; the action is dazzling.,The historical aspects are captivating; the action sequences are spectacular.,positive
@@ -998,3 +997,5 @@ dataset_id,original,paraphrased,sentiment
 4,Hardly a film that comes along every day.,Rarely does a movie like this appear.,positive
 1,".. so tired, i wish i could stay longer ","I'm exhausted, but I wish I didn't have to leave yet",negative
 1,"@lizziekeiper if it passes then we can put all the stupid people in bars and let them at each other, this works because we are smart ","If it gets approved, we could just let all the foolish folks gather in bars and have at it with each other - this plan works since we're the intelligent ones.",positive
+1,Aint nothing like sleeping in Saturday mornings!! ,Sleeping in Saturdaymornings is the best,positive
+4,No.,I will not.,negative
